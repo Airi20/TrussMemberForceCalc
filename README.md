@@ -64,3 +64,8 @@ java -jar TrussForceApp.jar
 ## Feedback / Questions 💬  
 Have any suggestions, questions, or found a bug?  
 [Click here to open an issue](https://github.com/Airi20/Truss-Force-Calc/issues/new?title=Feedback&body=Feel+free+to+write+your+thoughts+below%21+%F0%9F%91%87) — I’d love to hear from you!
+
+© Airi  
+This code is for personal and educational use only.  
+Commercial use is strictly prohibited.
+
